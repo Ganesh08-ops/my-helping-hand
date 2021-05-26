@@ -1,1 +1,2 @@
-# my-helping-hand
+# collisionAlgorithm
+Algorithm to detect collision between two objects
